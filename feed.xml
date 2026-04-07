@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Arte y Comunicación</title>
-    <link href="https://pinaudtomas@gmail.com/Proyecto-Sonoro-Arte-Y-Comunicacion/feed.xml" rel="self" />
-    <link href="https://pinaudtomas@gmail.com/Proyecto-Sonoro-Arte-Y-Comunicacion" />
+    <link href="https://pinaudtomas-cell/Proyecto-Sonoro-Arte-Y-Comunicacion/feed.xml" rel="self" />
+    <link href="https://pinaudtomas-cell/Proyecto-Sonoro-Arte-Y-Comunicacion" />
     <updated>2026-04-06T20:45:05-05:00</updated>
     <author>
         <name>Tomas Pinaud</name>
     </author>
-    <id>https://pinaudtomas@gmail.com/Proyecto-Sonoro-Arte-Y-Comunicacion</id>
+    <id>https://pinaudtomas-cell/Proyecto-Sonoro-Arte-Y-Comunicacion</id>
 
     <entry>
         <title>Arte Y Comunicación proyecto sonoro</title>
         <author>
             <name>Tomas Pinaud</name>
         </author>
-        <link href="https://pinaudtomas@gmail.com/Proyecto-Sonoro-Arte-Y-Comunicacion/arte-y-comunicacion-proyecto-sonoro.html"/>
-        <id>https://pinaudtomas@gmail.com/Proyecto-Sonoro-Arte-Y-Comunicacion/arte-y-comunicacion-proyecto-sonoro.html</id>
+        <link href="https://pinaudtomas-cell/Proyecto-Sonoro-Arte-Y-Comunicacion/arte-y-comunicacion-proyecto-sonoro.html"/>
+        <id>https://pinaudtomas-cell/Proyecto-Sonoro-Arte-Y-Comunicacion/arte-y-comunicacion-proyecto-sonoro.html</id>
 
         <updated>2026-04-06T20:45:05-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 <div class="gallery-wrapper"><div class="gallery" data-is-empty="true" data-translation="Add images"> </div></div>
-<figure class="post__image"><img loading="lazy"  src="https://pinaudtomas@gmail.com/Proyecto-Sonoro-Arte-Y-Comunicacion/media/posts/1/WhatsApp-Ptt-2026-04-06-at-8.36.30-PM.ogg" alt=""></figure>
-<figure class="post__image"><img loading="lazy"  src="https://pinaudtomas@gmail.com/Proyecto-Sonoro-Arte-Y-Comunicacion/media/posts/1/WhatsApp-Ptt-2026-04-06-at-8.36.30-PM-2.ogg" alt=""></figure>
-<p><audio loading="lazy" controls="controls" src="https://pinaudtomas@gmail.com/Proyecto-Sonoro-Arte-Y-Comunicacion/media/posts/1/WhatsApp-Ptt-2026-04-06-at-8.36.30-PM-2.ogg">
+<figure class="post__image"><img loading="lazy"  src="https://pinaudtomas-cell/Proyecto-Sonoro-Arte-Y-Comunicacion/media/posts/1/WhatsApp-Ptt-2026-04-06-at-8.36.30-PM.ogg" alt=""></figure>
+<figure class="post__image"><img loading="lazy"  src="https://pinaudtomas-cell/Proyecto-Sonoro-Arte-Y-Comunicacion/media/posts/1/WhatsApp-Ptt-2026-04-06-at-8.36.30-PM-2.ogg" alt=""></figure>
+<p><audio loading="lazy" controls="controls" src="https://pinaudtomas-cell/Proyecto-Sonoro-Arte-Y-Comunicacion/media/posts/1/WhatsApp-Ptt-2026-04-06-at-8.36.30-PM-2.ogg">
     </audio></p>
             ]]>
         </content>

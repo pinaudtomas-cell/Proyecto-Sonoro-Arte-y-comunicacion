@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pinaudtomas@gmail.com/Proyecto-Sonoro-Arte-Y-Comunicacion/sitemap.xml
